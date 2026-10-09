@@ -1,0 +1,6 @@
+
+jenkins:
+  systemMessage: >
+    Local Development Jenkins.
+    Managed through Configuration as Code (JCasC).
+    Configuration changes should be reviewed in version control.

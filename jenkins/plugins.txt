@@ -1,0 +1,9 @@
+
+# Jenkins Configuration as Code
+configuration-as-code:2133.ve570217cdb_cd
+
+# Jenkins Pipeline
+workflow-aggregator:608.v67378e9d3db_1
+
+# Git integration
+git
