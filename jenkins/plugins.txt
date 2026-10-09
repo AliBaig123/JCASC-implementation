@@ -7,3 +7,6 @@ workflow-aggregator:608.v67378e9d3db_1
 
 # Git integration
 git
+
+# Job-DSL plugin for configuration of jenkins job using groovy code instead of manually configure each jenkins Job
+job-dsl
